@@ -16,7 +16,7 @@ function min(a, b) {
     return b;
   }
 }
-
+// comment
 // test cases
 console.log("min(3, 5):", min(3, 5), "should be 3");
 console.log("min(5, 3):", min(5, 3), "should be 3");
