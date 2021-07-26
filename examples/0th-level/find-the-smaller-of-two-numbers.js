@@ -7,12 +7,12 @@
 
 function min(a, b) {
   // if a is smaller than b
-  if (a < b) {
+  if (a > b) {
     // return a
     return a;
     // else
   } else {
-    // return b
+    // return b asdfas asdf
     return b;
   }
 }
