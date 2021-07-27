@@ -1,6 +1,6 @@
 /**
  * This function returns the longest word in a list
- * @param {Array} - the array of words 
+ * @param {Array} words - the array of words 
  * @returns {string} - the longest word
  */
 function longestWordInList(words){
